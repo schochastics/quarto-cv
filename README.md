@@ -1,6 +1,6 @@
 # quarto-cv
 A collection of templates to create CVs/Resumes with Quarto.  
-Most templates were adopted from these [LaTeX templates for CVs and resumes](https://github.com/jankapunkt/latexcv).
+Templates were adopted from these [LaTeX templates for CVs and resumes](https://github.com/jankapunkt/latexcv) and this [modern Latex CV](https://github.com/philipempl/modern-latex-cv).
 
 ## classic-cv
 
@@ -15,6 +15,15 @@ quarto use template schochastics/classic-cv
 [repository](https://github.com/schochastics/modern-cv)  
 ```bash
 quarto use template schochastics/modern-cv
+```
+
+## modern2-cv
+
+
+![](modern2-cv.png)  
+[repository](https://github.com/schochastics/modern2-cv)  
+```bash
+quarto use template schochastics/modern2-cv
 ```
 
 ## sidebar-cv
